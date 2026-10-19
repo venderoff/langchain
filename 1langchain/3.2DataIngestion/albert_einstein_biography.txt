@@ -1,0 +1,41 @@
+Albert Einstein: A Biographical Profile
+=======================================
+A learning document for LangChain and retrieval-augmented generation (RAG)
+
+Editorial note: This is an original educational biography written in a first-person-style narrative for reading and testing document loaders. It is not an authentic autobiography written by Albert Einstein, and the first-person narration is not a quotation from him.
+
+Early life
+----------
+I was born on 14 March 1879 in Ulm, in the Kingdom of Württemberg in the German Empire. My family soon moved to Munich, where I spent much of my childhood. I was curious about how the world worked, and questions about light, motion, space, and time would eventually become central to my scientific life. A compass I encountered as a child made a strong impression on me because an invisible influence could move its needle.
+
+Education and early career
+--------------------------
+I attended school in Munich and later continued my education in Switzerland. I studied at the Swiss Federal Polytechnic in Zurich, where I trained as a teacher of physics and mathematics. After graduating in 1900, I had difficulty finding an academic post. In 1902, I began working at the Swiss Patent Office in Bern. Examining technical inventions gave me steady employment while leaving room to think deeply about physical problems.
+
+The year 1905
+-------------
+In 1905, often called my annus mirabilis or miracle year, I published several influential papers while still working at the patent office. One explained the photoelectric effect by treating light as energy delivered in discrete packets, later called photons. Another gave a new explanation of Brownian motion, strengthening the evidence that atoms and molecules are real. A paper on moving bodies introduced what became known as special relativity, and a short follow-up established the mass–energy relationship expressed as E = mc². These ideas changed the direction of modern physics.
+
+Relativity and gravity
+----------------------
+Special relativity showed that measurements of time and space depend on the relative motion of observers, while the speed of light in a vacuum is the same for all inertial observers. I spent years extending these ideas to gravity. In 1915, I presented the general theory of relativity, which describes gravity not simply as a conventional force but through the curvature of spacetime associated with matter and energy. The theory predicted that starlight would bend when passing near the Sun. Observations made during a solar eclipse in 1919 helped bring the theory to worldwide public attention.
+
+Recognition and the Nobel Prize
+-------------------------------
+My work made me internationally famous, though public attention was sometimes uncomfortable. I received the 1921 Nobel Prize in Physics, awarded for my discovery of the law of the photoelectric effect, rather than specifically for relativity. I continued to work on quantum theory and other foundational questions. I accepted that quantum physics was extraordinarily successful, but I remained troubled by some of its interpretations and debated these issues with other leading physicists.
+
+Leaving Germany
+---------------
+As the Nazi movement rose in Germany, Jewish people and political opponents faced increasing persecution. I was Jewish, and I opposed Nazism. I was outside Germany when Hitler came to power in 1933 and did not return to live there. I settled in the United States and joined the Institute for Advanced Study in Princeton, New Jersey. I became an American citizen in 1940 while retaining my Swiss citizenship.
+
+Science, public life, and the atomic age
+----------------------------------------
+I believed that scientists had responsibilities beyond their laboratories. In 1939, concerned that Nazi Germany might develop an atomic weapon, I signed a letter to United States President Franklin D. Roosevelt urging attention to the possibility of such weapons. I did not work on the Manhattan Project itself. After the Second World War, I spoke in favor of international cooperation, civil liberties, and efforts to control nuclear weapons. I also supported civil rights and humanitarian causes.
+
+Later years and legacy
+----------------------
+I spent my later years in Princeton continuing to study fundamental physics, including attempts to find a unified description of nature. These efforts did not produce the unified theory I sought, but they reflected my lifelong desire to understand deep connections among physical laws. I died in Princeton on 18 April 1955, aged 76. My name is now associated with relativity and E = mc², but my scientific legacy also includes important contributions to quantum theory and statistical physics. My life illustrates how curiosity, persistence, mathematical reasoning, and willingness to question established assumptions can reshape our understanding of the universe.
+
+Key facts for retrieval
+-----------------------
+Full name: Albert Einstein. Born: 14 March 1879, Ulm, German Empire. Died: 18 April 1955, Princeton, New Jersey, United States. Fields: theoretical physics. Major contributions: special relativity, general relativity, explanation of the photoelectric effect, Brownian motion analysis, and mass–energy equivalence. Nobel Prize: 1921 Nobel Prize in Physics, awarded for the photoelectric effect. Institutions and places associated with his life include the Swiss Federal Polytechnic in Zurich, the Swiss Patent Office in Bern, and the Institute for Advanced Study in Princeton.
